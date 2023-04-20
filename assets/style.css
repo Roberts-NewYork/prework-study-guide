@@ -29,10 +29,8 @@ ul {
   font-size: 20px;
 }
 p {
-  text-align: center;
-  font-size: 30px;
+  text-align: auto;
 }
-
 .card {
   width: 80%;
   margin: 40px auto;
